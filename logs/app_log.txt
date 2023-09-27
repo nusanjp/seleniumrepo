@@ -1,0 +1,7 @@
+INFO    2023-09-26 21:01:56,235 [main] XYZ Bank Project  - TC_Home Page Test
+INFO    2023-09-26 21:01:56,236 [main] XYZ Bank Project  - Home Page constructor is started..
+INFO    2023-09-26 21:01:57,073 [main] XYZ Bank Project  - Open Home Page.
+INFO    2023-09-26 21:01:57,101 [main] XYZ Bank Project  - Home Page is displayed
+INFO    2023-09-26 21:01:57,319 [main] XYZ Bank Project  - Home button is available in Home Page.
+INFO    2023-09-26 21:01:57,378 [main] XYZ Bank Project  - Customer Login button is available in Home Page.
+INFO    2023-09-26 21:01:57,429 [main] XYZ Bank Project  - Bank Manager Login button is available in Home Page.
